@@ -32,4 +32,4 @@ if (message.content === '!start') {
 client.login(process.env.TOKEN);// لا تغير فيها شيء
 
 // لا تغير فيها شيء
-
+//
